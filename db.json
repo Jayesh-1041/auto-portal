@@ -1,0 +1,140 @@
+{
+  "custpmers": [
+    {
+      "id": "cd55"
+    }
+  ],
+  "feedback": [
+    {
+      "id": "5c3d"
+    }
+  ],
+  "contact-us": [
+    {
+      "name": "Vimal",
+      "email": "vimal@gmail.com",
+      "phone": "6353946349",
+      "subject": "Front End Developer",
+      "message": "Helo",
+      "id": "29e1"
+    },
+    {
+      "name": "jayesh",
+      "email": "jayeshmer1041@gmail.com",
+      "phone": "6353946349",
+      "subject": "Front End Developer",
+      "message": "Hello\n",
+      "id": "9018"
+    },
+    {
+      "name": "Dhiraj",
+      "email": "dhiraj@gmail.com",
+      "phone": "8758490429",
+      "subject": "Operator",
+      "message": "Hii",
+      "id": "6a2d"
+    },
+    {
+      "name": "jayesh",
+      "email": "jayeshmer1041@gmail.com",
+      "phone": "6353946349",
+      "subject": "Front End Developer",
+      "message": "Hi",
+      "id": "de08"
+    }
+    
+  ],
+  "reviews": [
+    {
+      "id": "7a7d"
+    }
+  ],
+  "addcarcategores": [
+    {
+      "categoryname": "Scorpiyo",
+      "image": "https://stat.overdrive.in/wp-content/odgallery/2020/04/56774_Mahindra-Scorpio_2020_001.jpg",
+      "addeddate": "2025-01-01",
+      "description": "Good Cundition Car",
+      "id": "ede9"
+    },
+    {
+      "id": "7bab",
+      "categoryname": "Innova",
+      "image": "https://th.bing.com/th/id/OIP.okApyoS38sfoyIW591qvUwAAAA?rs=1&pid=ImgDetMain",
+      "addeddate": "2025-02-02",
+      "description": "Good Cubndition"
+    },
+    {
+      "id": "25fd",
+      "categoryname": "Creta",
+      "image": "https://wallpapercave.com/wp/wp3715536.jpg",
+      "addeddate": "2025-03-03",
+      "description": "Good Cundition"
+    },
+    {
+      "categoryname": "Thar",
+      "image": "https://wallpaperaccess.com/full/3939244.jpg",
+      "addeddate": "2025-04-04",
+      "description": "Good Cunditions",
+      "id": "a5e9"
+    }
+  ],
+  "addcars": [
+    {
+      "id": "1",
+      "carname": "Thar",
+      "carimage": "https://wallpaperaccess.com/full/3939244.jpg",
+      "oldprice": "1500000",
+      "offerprice": "1400000",
+      "description": "Good Cundition",
+      "addeddate": "2025-05-25"
+    },
+    {
+      "id": "2",
+      "carname": "Scorpio",
+      "carimage": "https://th.bing.com/th/id/R.a7c7f676ef424fbd93a94c5421549b59?rik=tkpJzOjA10Gosg&riu=http%3a%2f%2fstat.overdrive.in%2fwp-content%2fodgallery%2f2017%2f11%2f39564_Mahindra_Scorpio001.JPG&ehk=HmmjWt1pMctw50VbFylv6udO8r1rRnttfyD2sIwFxS0%3d&risl=&pid=ImgRaw&r=0",
+      "oldprice": "1800000",
+      "offerprice": "1750000",
+      "description": "Good Cundition",
+      "addeddate": "2025-06-18"
+    },
+    {
+      "id": "3",
+      "carname": "Innova",
+      "carimage": "https://th.bing.com/th/id/OIP.okApyoS38sfoyIW591qvUwAAAA?rs=1&pid=ImgDetMain",
+      "oldprice": "2500000",
+      "offerprice": "2400000",
+      "description": "Good Cundition",
+      "addeddate": "2026-12-18"
+    },
+    {
+      "carname": "BMW",
+      "carimage": "https://images.wallpaperscraft.com/image/single/bmw_m3_bmw_car_195895_1920x1080.jpg",
+      "oldprice": "90000000",
+      "offerprice": "8800000",
+      "description": "Good Cunditions",
+      "addeddate": "2027-12-18",
+      "id": "4"
+    }
+  ],
+  "addfaq": [
+    {
+      "id": "8295"
+    }
+  ],
+  "addcountry": [
+    {
+      "id": "6c42"
+    }
+  ],
+  "addstate": [
+    {
+      "id": "83d9"
+    }
+  ],
+  "addcity": [
+    {
+      "id": "4195"
+    }
+  ]
+}

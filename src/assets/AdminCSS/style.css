@@ -1,0 +1,138 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* overflow-x: hidden; */
+  font-family: "Poppins", sans-serif;
+}
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  box-sizing: border-box;
+}
+.admin {
+  width: 100%;
+  height: 640px !important;
+  background: -webkit-linear-gradient(left, #008dd2 50%, white 50%) !important;
+  background: -moz-linear-gradient(left, #008dd2 50%, white 50%) !important;
+  background: linear-gradient(to right, #008dd2 50%, white 50%) !important;
+}
+.dashboard {
+  width: 100% !important;
+  height: auto !important;
+  background-color: white !important;
+  background: -webkit-linear-gradient(left, white 50%, white 50%) !important;
+  background: -moz-linear-gradient(left, white 50%, white 50%) !important;
+  background: linear-gradient(to right, white 50%, white 50%) !important;
+}
+
+.welcome-admin {
+  width: 50%;
+  height: auto;
+  margin-top: 10% !important;
+  background-color: #008dd2;
+}
+.admin-login {
+  width: 50%;
+  height: auto;
+  margin-top: 10% !important;
+  background-color: white !important;
+}
+.admin-header {
+  width: 100%;
+  height: auto;
+  background-color: #008dd2;
+}
+.admin-bottom-header {
+  width: 100%;
+  height: auto;
+  background-color: white !important;
+}
+.admin-sidebar {
+  width: auto !important;
+  height: 100vh;
+  background-color: #008dd2;
+}
+.sidebar-link li {
+  display: block !important;
+  padding: 15px 5px;
+}
+.sidebar-link a {
+  text-decoration: none;
+  list-style-type: none;
+  color: white;
+  font-size: 16px;
+}
+
+.footer {
+  background-color: #6b848d;
+  color: #fff;
+  padding: 20px 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.section {
+  flex: 1 1 calc(25% - 20px);
+  margin: 10px;
+}
+
+.section h4 {
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+
+.section p,
+.section ul,
+.section li {
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.section ul {
+  list-style: none;
+  padding: 0;
+}
+
+.section ul li {
+  margin-bottom: 10px;
+}
+
+.section ul li a {
+  color: #fff;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.section ul li a:hover {
+  color: #f39c12;
+}
+
+.socialMedia a {
+  margin-right: 15px;
+  font-size: 20px;
+  color: #fff;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.socialMedia a:hover {
+  color: #f39c12;
+}
+
+.bottom {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 14px;
+  border-top: 1px solid #444;
+  padding-top: 10px;
+}
